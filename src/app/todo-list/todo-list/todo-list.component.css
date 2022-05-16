@@ -1,0 +1,15 @@
+.bi-pencil{
+    position: absolute;
+    font-size: 20px;
+    right: 50px;
+    top: 15px;
+    color: rgb(16, 9, 83);
+}
+
+.bi-trash{
+    position: absolute;
+    font-size: 20px;
+    right: 25px;
+    top: 15px;
+    color: rgb(16, 9, 83);
+}
